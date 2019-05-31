@@ -1,0 +1,2 @@
+server.LanMonitoringClient
+server.MyHandler
